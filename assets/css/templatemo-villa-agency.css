@@ -728,6 +728,10 @@ Header Style
     padding-right: 0px !important;
   }
   
+    .video-content .video-frame iframe {
+      width: 45vh;
+      height: 30vh;
+    }
 }
 
 /* 
